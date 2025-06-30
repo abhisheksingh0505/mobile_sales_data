@@ -8,7 +8,7 @@
 
 **📈 Interactive Business Intelligence Dashboard for Mobile Sales Analysis**
 
-[View Dashboard](#-dashboard-preview) • [Explore Insights](#-key-insights) • [Download Data](./Day%20-%2030%20-%20Mobile%20Sales%20Data.xlsx)
+[View Dashboard](#-dashboard-preview)  • [Download Data](./Day%20-%2030%20-%20Mobile%20Sales%20Data.xlsx)
 
 </div>
 
